@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hrishikesh Kumar</h1>
-<h3 align="center">A passionate Android App Developer and Data Science enthusiast from India</h3>
+<h3 align="center">A passionate Android App Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrishi-7&label=Profile%20views&color=0e75b6&style=flat" alt="hrishi-7" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Ktor**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hrishi-7](https://github.com/Hrishi-7)
 
-- 💬 Ask me about **Android, Kotlin and Data Science**
+- 💬 Ask me about **Android, Kotlin and Kotlin backend**
 
 - 📫 How to reach me **hrishikeshk19@gmail.com**
 
